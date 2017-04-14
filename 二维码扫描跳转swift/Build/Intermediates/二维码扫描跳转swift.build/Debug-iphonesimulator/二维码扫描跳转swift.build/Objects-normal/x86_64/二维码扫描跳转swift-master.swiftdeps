@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "372825bbd35c38324686d6a841dde12b"
+build_time: [545455739, 81064000]
+inputs:
+  "/Users/user/QRCode-Swift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/STTScanView.swift": [532754139, 0]
+  "/Users/user/QRCode-Swift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/STTScanCodeController.swift": [532429188, 0]
+  "/Users/user/QRCode-Swift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/ViewController.swift": [532418743, 0]
+  "/Users/user/QRCode-Swift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/AppDelegate.swift": [531902606, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "c4b8efdef7089cefbad3350d13008355"
+build_time: [532771600, 533904000]
+inputs:
+  "/Users/user/Desktop/\u4E8C\u7EF4\u7801OC\u548Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/STTScanView.swift": !private [532754139, 0]
+  "/Users/user/Desktop/\u4E8C\u7EF4\u7801OC\u548Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/STTScanCodeController.swift": !dirty [532429188, 0]
+  "/Users/user/Desktop/\u4E8C\u7EF4\u7801OC\u548Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/ViewController.swift": !dirty [532418743, 0]
+  "/Users/user/Desktop/\u4E8C\u7EF4\u7801OC\u548Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/\u4E8C\u7EF4\u7801\u626B\u63CF\u8DF3\u8F6Cswift/AppDelegate.swift": !dirty [531902606, 0]
